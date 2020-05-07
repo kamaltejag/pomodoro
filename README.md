@@ -5,7 +5,7 @@ This is a simple timer which is preset to 25minutes.
 
 Just decide on a task, hit the timer and **start working**.
 
-Once the timer hits start working**start working**, it plays a bell sound to notify the end of the session.
+Once the timer hits **zero**, it plays a bell sound to notify the end of the session.
 
 Then take a break and start the timer again.
 
